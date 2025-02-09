@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ryan! 👋
 
-<!--
-**mccaffers/mccaffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves to build, experiment, and occasionally breaking things 😊. My playground mainly involves C#, C++, Python & Swift, where I turn ideas into solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, C++, Python, Swift
+- **Interests:** Software Architecture, Systems Programming, Mobile Development
+- **Always Learning:** Exploring new technologies and pushing boundaries
+- 
+## 🌐 Find Me Around the Web
+
+- 📨 Email: ryan@mccaffers.com
+- 🐦 Twitter: [@mccaffersuk](https://twitter.com/mccaffersuk)
+- 💻 GitHub: [@mccaffers](https://github.com/mccaffers)
