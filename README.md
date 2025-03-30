@@ -1,3 +1,5 @@
 # Hi, I'm Ryan! 👋
 
-I'm a software engineer who loves to build, experiment, and occasionally breaking things 😊. My playground mainly involves C#, C++, Python & Swift, where I turn ideas into solutions. See my projects below!
+I enjoy developing building software in C# & Swift. I'm building algorithmic trading engines to test strategies at scale, and experimenting with various iOS applications. 
+
+Check out my site over at mccaffers.com or @mccaffersuk (x/twitter)
