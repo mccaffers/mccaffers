@@ -1,5 +1,3 @@
 ## Hi, I'm Ryan! 👋
 
-I enjoy developing building software in C# & Swift. I'm building algorithmic trading engines to test strategies at scale, and experimenting with various iOS applications. 
-
-Check out my site over at mccaffers.com or @mccaffersuk (x/twitter)
+I enjoy developing building software in C# & Swift. I'm building algorithmic trading engines to test strategies at scale, and experimenting with various iOS applications

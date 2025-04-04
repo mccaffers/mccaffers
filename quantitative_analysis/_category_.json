@@ -2,6 +2,7 @@
   "label": "Quantitative Analysis",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Quantitative analysis is the use of mathematical and statistical methods to analyze financial data and make investment decisions. It involves the use of algorithms, models, and data analysis techniques to identify patterns and trends in financial markets."
   }
 }
