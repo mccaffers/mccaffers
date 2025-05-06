@@ -299,7 +299,7 @@ Date Time               PnL      Statement                      Profit  Direct  
 05/01/2023 14:50:32     257.85   Closed trade for EURUSD        0.95    BUY     1.227   1.2268
 ```
 
-I'm going to research into how the markets move as I wonder if a reactive and adapting SL/TP would lead to better outcomes. I've started a new thread on [Market Analysis](/market_analysis/).
+I'm going to research into how the markets move as I wonder if a reactive and adapting SL/TP would lead to better outcomes. I've started a new thread on [Market Analysis](/quantitative_analysis/market_analysis/).
 
 If you've got any feedback on this post please let me know <a href='mailto:ryan@mccaffers.com' target="_blank">ryan@mccaffers.com</a>
 

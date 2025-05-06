@@ -841,6 +841,6 @@ As a result the backtesting engine can now deploy on top of EC2 instances to val
 
 ## Next
 
-The engine is constantly being improved and updated, though it’s in a good state to start focusing on trading strategies. You can check out my first experiment, You can check out my first experiment, [Random Walk Theory](/randomly_trading/). 
+The engine is constantly being improved and updated, though it’s in a good state to start focusing on trading strategies. You can check out my first experiment, You can check out my first experiment, [Random Walk Theory](/quantitative_analysis/randomly_trading/). 
 
 If you've got any feedback on this post please let me know <a href='mailto:ryan@mccaffers.com' target="_blank">ryan@mccaffers.com</a>
