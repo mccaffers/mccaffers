@@ -1,13 +1,11 @@
 ---
 sidebar_position: 2
 title: "Visualising Trading Strategies"
-description: 'abc'
+description: "I've created a Web UI to visualise trading strategies in the backtesting engine, using SignalR, ReactJS and CanvasJS with an ambition to research and develop trading strategies more efficiently"
 tags: ["Quantitative Engineering", ".NET trading", "visualising trading", "canvasjs", "ohlc"]
 ---
 
-
 <img  src="/static/building_a_trading_ui/backtesting_UI.png"   />
-
 
 ## Reflecting on current progress
 

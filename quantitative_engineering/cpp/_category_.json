@@ -2,6 +2,7 @@
   "label": "cpp",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+     "description": "I've continued to focus on improving my approach to backtesting, by rebuilding the backtesting engine in C++. C++ is often used in algorithmic trading, risk management, and financial modeling. Its features such as object-oriented programming, templates, and the Standard Template Library (STL) make it a popular choice among quantitative engineers and developers."
   } 
 }

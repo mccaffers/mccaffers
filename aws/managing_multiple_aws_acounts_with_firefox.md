@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: "Managing multiple AWS accounts with Firefox Containers"
-description: "abc"
+description: "Documenting how to use Firefox Containers to support using Multiple AWS Accounts across multiple Firefox tabs"
 ---
 
 <img src="/static/firefox-containers/landing.png"  />
