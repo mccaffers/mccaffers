@@ -5,7 +5,7 @@ description: "Steps to build Elasticsearch infrastructure on AWS at low cost usi
 tags: ["Software Engineering"]
 ---
 
-In this post I'm documenting how to deploy Elasticsearch and use several AWS services to have a secure and flexible solution. I started building my own infrastructure as a test environment while developing [Search Ops](/search_ops/), an iOS app that lets you query Elasticsearch and I've put together steps how to reproduced the environment.
+In this post I'm documenting how to deploy Elasticsearch and use several AWS services to have a secure and flexible solution. I started building my own infrastructure as a test environment while developing [Search Ops](/my_projects/search_ops/), an iOS app that lets you query Elasticsearch and I've put together steps how to reproduced the environment.
 
 ## Building infrastructure on EC2
 
@@ -581,7 +581,7 @@ Kibana uses a lot of Javascript files, which will exceed the AWS Lambda 6mb resp
 
 Kibana uses cookies for authenticate, populating the `Set-Cookie` header field. This comes back as an array but needs some parsing to become a valid AWS API Gateway Header.
 
-I've made use of Firefox containers throughout this project, I'd recommend reading my previous post, [Managing multiple AWS accounts with Firefox Containers](/managing_multiple_aws_acounts_with_firefox)
+I've made use of Firefox containers throughout this project, I'd recommend reading my previous post, [Managing multiple AWS accounts with Firefox Containers](/aws/managing_multiple_aws_acounts_with_firefox/)
 
 If you have any questions or feedback, let me know, ryan@mccaffers.com
 

@@ -9,7 +9,7 @@ In this post, I'm reviewing the performance of a Random Trading Strategy across 
 
 <div class="frontpage-span" style={{ marginBottom: '40px' }}>Can you randomly trade the financial markets and profit?</div>
 
-I'm using the [Backtesting Engine](/building_a_backtesting_system/) to scale, document, and visualise performance using historical datasets from the two last decades, 2004 through to 2024. I've developed a Random Trading Strategy which will open a position in a random direction (a BUY or SELL trade) and is available to see on Github, 🔗 [C#  - Backtesting Engine / Random Strategy](https://github.com/mccaffers/backtesting-engine/blob/main/src/strategies/locked/Random/Random.cs)
+I'm using the [Backtesting Engine](/quantitative_engineering/building_a_backtesting_system/) to scale, document, and visualise performance using historical datasets from the two last decades, 2004 through to 2024. I've developed a Random Trading Strategy which will open a position in a random direction (a BUY or SELL trade) and is available to see on Github, 🔗 [C#  - Backtesting Engine / Random Strategy](https://github.com/mccaffers/backtesting-engine/blob/main/src/strategies/locked/Random/Random.cs)
 
 ## Test Scenarios
 

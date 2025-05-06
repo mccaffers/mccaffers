@@ -9,9 +9,9 @@ tags: ["Quantitative Engineering", ".NET trading", "visualising trading", "canva
 
 ## Reflecting on current progress
 
-Over the last couple of months, I have designed and developed a [Backtesting Engine](/building_a_backtesting_system/) from scratch to experiment with trading strategies at scale on AWS. 
+Over the last couple of months, I have designed and developed a [Backtesting Engine](/quantitative_engineering/building_a_backtesting_system/) from scratch to experiment with trading strategies at scale on AWS. 
 
-I've experimented with [Random Trading Strategies](/randomly_trading/) and performed some light [Market Analysis using ElasticSearch and Kibana](/market_analysis/).
+I've experimented with [Random Trading Strategies](/quantitative_analysis/randomly_trading/) and performed some light [Market Analysis using ElasticSearch and Kibana](/market_analysis/).
 
 The Backtesting Engine has realistic trading execution, efficient order flow, and account management. There are also good engineering practices such as unit testing, error catching, and observability. 
 

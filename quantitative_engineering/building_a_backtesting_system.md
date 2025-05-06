@@ -25,23 +25,15 @@ Backtesting is the process of validating a trading strategy against historical d
 
 A trading strategy decides the entry and exit points of trade, and in theory, strategies that worked well in the past could work well in the future. However, markets are continuously changing in volatility and momentum, so this is not always the case.
 
-
-  
-
 <img style={{ backgroundColor: "rgb(255, 255, 255)"}}  src="/static/building_a_backtesting_system/tradingdecisions.png"/>
-
 
 To give an example, a strategy could define conditions to BUY an asset if it's value falls significantly below the 10 day `SMA` (Simple Moving Average). This would be under the assumption that every price has equilibrium and a reversion to the mean.
 
-
 <img style={{ backgroundColor: "rgb(255, 255, 255)"}} src="/static/building_a_backtesting_system/movingaverage.png"/>
-
 
 The backtesting engine will support the ingest of multiple symbols and synchronise them to enable the experimentation of arbitrage strategies. Arbitrage is a method of exploiting price disparity in the markets. In summary, you buy and sell an asset (currency in this instance) that is currently diverged but extremely likely to converge.
 
-
 <img style={{ backgroundColor: "rgb(255, 255, 255)"}} src="/static/building_a_backtesting_system/arbitrage.png"/>
-
 
 I'll cover more on individual strategies after I have built the backtesting system.
 

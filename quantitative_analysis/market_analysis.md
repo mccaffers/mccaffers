@@ -5,7 +5,7 @@ description: "Retrospective review of the financial markets over the last 17 yea
 tags: ["Quantitative Analysis"]
 ---
 
-Following on from the [Random Trading Strategies](/randomly_trading/) post, I'm exploring the characteristics of the markets and looking holistically across all of the data. To do this, I've added an Analysis Strategy to the [Backtesting Engine](/building_a_backtesting_system/) which reports market statistics to ElasticSearch and I'll use Kibana for visualisation. 
+Following on from the [Random Trading Strategies](/quantitative_analysis/randomly_trading/) post, I'm exploring the characteristics of the markets and looking holistically across all of the data. To do this, I've added an Analysis Strategy to the [Backtesting Engine](/quantitative_engineering/building_a_backtesting_system/) which reports market statistics to ElasticSearch and I'll use Kibana for visualisation. 
 
 I'm going to visualise the following categories across Forex, Indices, and Crypto:
 
