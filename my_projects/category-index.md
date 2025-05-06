@@ -76,7 +76,7 @@ title: "My Projects"
     <li>View results as documents or in a table</li>
     <li>Easily switch between hosts, indexes and filter on mapped data types</li>
     <li>
-      Read more about <a href="/search_ops/">Search Ops</a> & <a href="/search_ops/#release-notes">View Release Notes</a>
+      Read more about <a href="/my_projects/search_ops/">Search Ops</a> & <a href="/my_projects/search_ops/#release-notes">View Release Notes</a>
     </li>
   </ul>
 </div>
