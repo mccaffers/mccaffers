@@ -7,7 +7,7 @@ tags: ["Quantitative Engineering", ".NET trading", "visualising trading", "canva
 
 ## Introduction
 
-Following on from my previous post, [Building a Backtesting Engine in C#](/building_a_backtesting_system/), I decided to take the next step and rebuild the entire system in C++ to improve performance. 
+Following on from my previous post, [Building a Backtesting Engine in C#](/quantitative_engineering/cpp/building_a_cpp_backtesting_engine/), I decided to take the next step and rebuild the entire system in C++ to improve performance. 
 
 > This is a live document, I’m making frequent changes that may make some of this outdate. I will refresh this post as soon as possible.
 
