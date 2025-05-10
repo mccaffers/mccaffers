@@ -27,6 +27,9 @@ title: Home
       width: 100% !important;
     }
   }
+  .padding-top--md {
+    padding-top: 5px !important;
+  }
 `}</style>
 
 <h2 style={{marginTop:0}} >Hi, I'm Ryan! 👋 </h2>
