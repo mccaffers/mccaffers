@@ -91,6 +91,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
     loop
     autoPlay
     playsInline
+    muted
     className="video-auto rounded"
     width="100%"
   >
@@ -109,6 +110,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
     loop
     autoPlay
     playsInline
+    muted
     className="video-auto rounded"
     width="100%"
   >
