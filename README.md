@@ -1,3 +1,3 @@
 ## Hi, I'm Ryan! 👋
 
-I enjoy developing building software in C# & Swift. I'm building algorithmic trading engines to test strategies at scale, and experimenting with various iOS applications
+I'm a Software Engineer, building, tinkering and breaking code in .NET C#, C++, Python & Swift. Fascinated with algorithmic trading strategies and iOS application development. Passionate about building solutions to problems I encounter and sharing them with the world.
