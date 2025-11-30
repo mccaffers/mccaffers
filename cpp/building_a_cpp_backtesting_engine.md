@@ -7,9 +7,15 @@ tags: ["Quantitative Engineering", ".NET trading", "visualising trading", "canva
 
 ## Introduction
 
-Following on from my previous post, [Building a Backtesting Engine in C#](/quantitative_engineering/cpp/building_a_cpp_backtesting_engine/), I decided to take the next step and rebuild the entire system in C++ to improve performance. 
+Following on from my previous post, [Building a Backtesting Engine in C#](/quantitative_engineering/building_a_backtesting_system/), I decided to take the next step and rebuild the entire system in C++ to improve performance. 
 
-> This is a live document, I’m making frequent changes that may make some of this outdate. I will refresh this post as soon as possible.
+:::info Work in progress - November 2025
+
+This is a live document, I’m making frequent changes that may make some of this outdated. I will frequently update.
+
+I will post updates on X https://x.com/mccaffersuk and Threads https://www.threads.com/@mccaffers
+
+:::
 
 ### Why C++ 
 C++ offers superior performance and lower-level control over system resources, which can lead to significant speed improvements and reduced memory usage. C++ is a superset of C which can be compiled natively for various platforms.
