@@ -23,16 +23,16 @@ Firstly, previous results didn't align with real market conditions. My backtesti
 I'm now redesigning my backtesting approach to use a graph-based neighbourhood optimisation method that tests parameter "neighbours" to find stable performance plateaus rather than fragile peaks, in addition to the filtering and walk-forward validation.
 
 ```
-Initialize Grid → Test → UpdateResultAsync() → Classify
+Initialise Grid → Test → UpdateResultAsync() → Classify
                                                ↓
                          ┌─────────────────────┼─────────────────────┐
                          ↓                     ↓                     ↓
                      WINNER               NEUTRAL                LOSER
                          ↓                     ↓                     ↓
               Trigger Stage 2          Just record         Prune neighbors
-              (RSI optimization)                           (Scorched Earth)
+              (Optimisation)                           (Scorched Earth)
                          ↓                                          
-              RunOptimizationLoopAsync() → Find new candidates
+              RunOptimisationLoopAsync() → Find new candidates
 ```
 
 :::info Work in progress - December 2025
