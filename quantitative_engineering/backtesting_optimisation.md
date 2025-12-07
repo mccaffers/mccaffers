@@ -24,15 +24,15 @@ I'm now redesigning my backtesting approach to use a graph-based neighbourhood o
 
 ```
 Initialise Grid → Test → UpdateResultAsync() → Classify
-                                               ↓
-                         ┌─────────────────────┼─────────────────────┐
-                         ↓                     ↓                     ↓
-                     WINNER               NEUTRAL                LOSER
-                         ↓                     ↓                     ↓
-              Trigger Stage 2          Just record         Prune neighbors
-              (Optimisation)                           (Scorched Earth)
-                         ↓                                          
-              RunOptimisationLoopAsync() → Find new candidates
+                                                  ↓
+                            ┌─────────────────────┼─────────────────────┐
+                            ↓                     ↓                     ↓
+                          WINNER               NEUTRAL                LOSER
+                            ↓                     ↓                     ↓
+                        Trigger Stage 2         Record           Prune neighbors
+                        (Optimisation)                           (Scorched Earth)
+                            ↓                                          
+                RunOptimisationLoopAsync() → Find new candidates 
 ```
 
 :::info Work in progress - December 2025
