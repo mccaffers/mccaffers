@@ -35,6 +35,8 @@ Initialise Grid → Test → UpdateResultAsync() → Classify
                 RunOptimisationLoopAsync() → Find new candidates 
 ```
 
+<img src="/static/backtesting_optimisation/graphing_backtesting_runs.png" />
+
 :::info Work in progress - December 2025
 
 This is a live article. I write it all myself. There's a lot to describe and visualise properly.
