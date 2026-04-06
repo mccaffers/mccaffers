@@ -1,17 +1,7 @@
-## Hi, I'm Ryan! 👋
+## Hey!
 
-I'm passionate about solving real problems through code, whether that's automating workflows, optimising trading strategies, or building tools that make developers' lives easier. 
+I'm building a few things, in various languages, my favourites C#, C++, Python & Swift
 
-I'm building solutions in various languages (C#, C++, Python & Swift) in my free time. I love tinkering with code, breaking things to understand them, and sharing what I learn. I believe in learning in public and contributing back to the community through open source and technical writing.
+- **Algorithmic Trading** — I'm designing, and experimenting with quantitative analysis systems in C#, C++, and Python
 
-### About me
-
-I hold an **MSci in Communication and Computer Systems**. In my final year, I designed and developed an Automated Landmark Recognition system in C++ to operate on a Pioneer 3DX Robot, utilising the wheels and camera to navigate autonomously.
-
-My personal interests are in:
-
-- **Algorithmic Trading** — Designing and engineering quantitative analysis systems in C#, C++, and Python
-
-- **iOS & macOS Apps** — Native applications in Swift focused on developer tools and productivity
-
-If you have any feedback or suggestions do send me a message. Thanks for dropping by!
+- **iOS & macOS Apps** — I've built a few native applications in Objective C and Swift, most recently built SearchOps, a iOS/macOS client for ElasticSearch
