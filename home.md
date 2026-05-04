@@ -49,6 +49,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
     }} 
   >
   <div>Quantitative Analysis</div>
+  <a href='./quantitative_analysis/randomly_trading/'>
     <div 
     style={{ 
       width: '100%', 
@@ -58,7 +59,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
       backgroundPosition: 'center',
       borderRadius: '5px'
     }} 
-  ></div>
+  ></div></a>
   </div>
   <div 
     style={{ 
@@ -66,7 +67,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
     }} 
   >
   <div>SearchOps for iOS and macOS</div>
-    <div 
+    <a href='./my_projects/search_ops/'><div 
     style={{ 
       width: '100%', 
       aspectRatio: '16/9',
@@ -75,7 +76,7 @@ I've developed several applications for Apple platforms (iOS and macOS). I desig
       backgroundPosition: 'center',
       borderRadius: '5px'
     }} 
-  ></div>
+  ></div></a>
   </div>
 </div>
 

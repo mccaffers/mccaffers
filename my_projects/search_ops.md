@@ -28,11 +28,13 @@ So I made Search Ops, a mobile app that enables you to query and view your data 
 * Designed for iOS 16.0 and above
 * Privacy-focused app offers powerful search operations with no analytics or tracking
 * Open-source business logic available on GitHub 
-
+<div style={{display: 'flex', gap: '10px', alignItems: 'center'}}>
 <a href='https://apps.apple.com/us/app/search-ops/id6453696339?itsct=apps_box_link&itscg=30200' target="_blank" rel="noopener noreferrer" style={{boxShadow: "none", marginTop: "10px"}}>
         <div id="appleLogo"></div>
+      </a> <a href='https://github.com/mccaffers/search-ops' target="_blank" rel="noopener noreferrer" style={{boxShadow: "none", marginTop: "10px"}}>
+        <img className="githubLogo" src='/static/github.webp' />
       </a>
-
+</div>
 ## Features
 
 The app allows you to query ElasticSearch and OpenSearch clusters using Free Text String, with compounds (AND/OR) and with Date Ranges (if you have a defined a Date type in your index). Queries are saved, so you can easily switch between hosts and indexes, reusing queries whereever you need to.
