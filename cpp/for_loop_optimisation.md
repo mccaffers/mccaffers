@@ -6,8 +6,7 @@ tags: ["C++", "Quantitative Engineering"]
 ---
 
 ## Two Loops, Two Philosophies
-
-Following on from my previous post, [Building a Backtesting Engine in C++](/quantitative_engineering/building_a_cpp_backtesting_engine/), I started to evaluate data ingest performance from QuestDB. I want the C++ application to evaluate a strategy off a (git) branch, ingest the last *n* months of data, to spawn multiple sweeps as fast as possible.
+Following on from my previous post, [Building a Backtesting Engine in C++](/cpp/building_a_cpp_backtesting_engine/), I started to evaluate data ingest performance from QuestDB. I want the C++ application to evaluate a strategy off a (git) branch, ingest the last *n* months of data, to spawn multiple sweeps as fast as possible.
 
 I started off with a convenient loop, building a vector of `PriceData`.
 
