@@ -13,7 +13,7 @@ Following on from my previous post, [Building a Backtesting Engine in C#](/quant
 
 This is a live document, I’m making frequent changes that may make some of this outdated. I will frequently update.
 
-I will post updates on X https://x.com/mccaffersuk and Threads https://www.threads.com/@mccaffers
+I will post updates on X https://x.com/mcc4ff3r5
 
 :::
 
